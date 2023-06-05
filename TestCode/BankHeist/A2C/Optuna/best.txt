@@ -1,0 +1,19 @@
+
+A2C
+Number of finished trials:  100
+Best trial:
+  Value:  172.2
+  Params: 
+    gamma: 0.98
+    normalize_advantage: False
+    max_grad_norm: 0.7
+    use_rms_prop: True
+    gae_lambda: 0.8
+    n_steps: 128
+    lr_schedule: constant
+    learning_rate: 0.001815853309651432
+    ent_coef: 1.4242865045217283e-05
+    vf_coef: 0.32837777846078803
+    ortho_init: True
+    net_arch: small
+    activation_fn: relu

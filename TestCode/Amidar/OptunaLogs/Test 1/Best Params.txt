@@ -1,0 +1,20 @@
+Number of finished trials:  100
+Best trial:
+  Value:  31.0
+  Params: 
+    gamma: 0.9999
+    normalize_advantage: True
+    max_grad_norm: 0.8
+    use_rms_prop: False
+    gae_lambda: 0.98
+    n_steps: 512
+    lr_schedule: constant
+    learning_rate: 0.24657077152329324
+    ent_coef: 0.06603271278823375
+    vf_coef: 0.006154830569273462
+    ortho_init: True
+    net_arch: small
+    activation_fn: relu
+	
+	
+	
